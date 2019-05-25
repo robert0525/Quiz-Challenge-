@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background:url('../img/quiz2.png')  no-repeat;
+}
+.quiz{
+    margin : 33px;
+    padding: 25px;
+    text-align: center;
+    font-size: 26px;
+}
